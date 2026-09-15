@@ -1,0 +1,10 @@
+.env
+.env.*
+node_modules/
+*.log
+# Confidential source reports and solution workbooks must never be committed.
+*.pdf
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb

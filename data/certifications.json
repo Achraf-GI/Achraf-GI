@@ -1,0 +1,599 @@
+[
+  {
+    "id": "green-belt",
+    "title": "Six Sigma Green Belt Specialization",
+    "issuer": null,
+    "type": "specialization",
+    "date": null,
+    "image": null,
+    "credentialUrl": null,
+    "linkedinUrl": null,
+    "category": "Lean Six Sigma & Quality",
+    "skills": [
+      "DMAIC",
+      "Process Improvement",
+      "Root Cause Analysis",
+      "Statistical Analysis",
+      "SPC",
+      "Control Plans"
+    ],
+    "componentCourses": [
+      {
+        "title": "Six Sigma Advanced — Define & Measure — University at Buffalo",
+        "sourceRecord": {
+          "fr": "Six Sigma Advanced — Define & Measure — Université de Buffalo",
+          "en": "Six Sigma Advanced — Define & Measure — University at Buffalo"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Six Sigma Advanced — Analyze — University at Buffalo",
+        "sourceRecord": {
+          "fr": "Six Sigma Advanced — Analyze — Université de Buffalo",
+          "en": "Six Sigma Advanced — Analyze — University at Buffalo"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Six Sigma Advanced — Improve & Control — University at Buffalo",
+        "sourceRecord": {
+          "fr": "Six Sigma Advanced — Improve & Control — Université de Buffalo",
+          "en": "Six Sigma Advanced — Improve & Control — University at Buffalo"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Six Sigma and the Organization",
+        "sourceRecord": {
+          "fr": "Six Sigma and the Organization",
+          "en": "Six Sigma and the Organization"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      }
+    ],
+    "featured": true,
+    "completed": true,
+    "priority": 1
+  },
+  {
+    "id": "supply-chain",
+    "title": "Supply Chain Management Specialization",
+    "issuer": "Rutgers University",
+    "type": "specialization",
+    "date": null,
+    "image": null,
+    "credentialUrl": null,
+    "linkedinUrl": null,
+    "category": "Supply Chain & Operations",
+    "skills": [
+      "Strategy",
+      "Planning",
+      "Sourcing",
+      "Logistics",
+      "Operations",
+      "Inventory Management"
+    ],
+    "componentCourses": [
+      {
+        "title": "Supply Chain Management Strategy",
+        "sourceRecord": {
+          "fr": "Supply Chain Management Strategy",
+          "en": "Supply Chain Management Strategy"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Supply Chain Sourcing",
+        "sourceRecord": {
+          "fr": "Supply Chain Sourcing",
+          "en": "Supply Chain Sourcing"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Supply Chain Planning",
+        "sourceRecord": {
+          "fr": "Supply Chain Planning",
+          "en": "Supply Chain Planning"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Supply Chain Operations",
+        "sourceRecord": {
+          "fr": "Supply Chain Operations",
+          "en": "Supply Chain Operations"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Supply Chain Logistics",
+        "sourceRecord": {
+          "fr": "Supply Chain Logistics",
+          "en": "Supply Chain Logistics"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      }
+    ],
+    "featured": true,
+    "completed": true,
+    "priority": 2
+  },
+  {
+    "id": "sap",
+    "title": "SAP Technology Consultant Professional Certificate",
+    "issuer": "SAP",
+    "type": "professional-certificate",
+    "date": null,
+    "image": null,
+    "credentialUrl": null,
+    "linkedinUrl": null,
+    "category": "SAP & Enterprise Systems",
+    "skills": [
+      "Enterprise Systems",
+      "Business Processes",
+      "SAP Solution Design",
+      "Implementation",
+      "Digital Transformation"
+    ],
+    "componentCourses": [
+      {
+        "title": "SAP Professional Fundamentals",
+        "sourceRecord": {
+          "fr": "SAP Professional Fundamentals",
+          "en": "SAP Professional Fundamentals"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Understanding the Enterprise Systems Environment",
+        "sourceRecord": {
+          "fr": "Understanding the Enterprise Systems Environment",
+          "en": "Understanding the Enterprise Systems Environment"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "SAP Customer Engagement and Discovery",
+        "sourceRecord": {
+          "fr": "SAP Customer Engagement and Discovery",
+          "en": "SAP Customer Engagement and Discovery"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Designing an SAP Solution",
+        "sourceRecord": {
+          "fr": "Designing an SAP Solution",
+          "en": "Designing an SAP Solution"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Implementing an SAP Solution",
+        "sourceRecord": {
+          "fr": "Implementing an SAP Solution",
+          "en": "Implementing an SAP Solution"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Becoming an SAP Professional",
+        "sourceRecord": {
+          "fr": "Becoming an SAP Professional",
+          "en": "Becoming an SAP Professional"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "SAP Technology Consultant — Hands-on Project",
+        "sourceRecord": {
+          "fr": "SAP Technology Consultant — Projet pratique (Hands-on Project)",
+          "en": "SAP Technology Consultant — Hands-on Project"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      }
+    ],
+    "featured": true,
+    "completed": true,
+    "priority": 3
+  },
+  {
+    "id": "manufacturing",
+    "title": "Digital Technology in Manufacturing Specialization",
+    "issuer": null,
+    "type": "specialization",
+    "date": null,
+    "image": null,
+    "credentialUrl": null,
+    "linkedinUrl": null,
+    "category": "Industry 4.0 & Digital Manufacturing",
+    "skills": [
+      "Digital Manufacturing",
+      "Industry 4.0",
+      "Smart Factory",
+      "Digital Transformation",
+      "Manufacturing Systems"
+    ],
+    "componentCourses": [
+      {
+        "title": "Digital Manufacturing — Introduction and Smart Design",
+        "sourceRecord": {
+          "fr": "Digital Manufacturing — Introduction and Smart Design",
+          "en": "Digital Manufacturing — Introduction and Smart Design"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Industry 4.0 — PLM, Value Chain and Smart Factory",
+        "sourceRecord": {
+          "fr": "Industry 4.0 — PLM, Value Chain and Smart Factory",
+          "en": "Industry 4.0 — PLM, Value Chain and Smart Factory"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      }
+    ],
+    "featured": true,
+    "completed": true,
+    "priority": 4
+  },
+  {
+    "id": "safety",
+    "title": "Industrial and Process Safety Engineering Specialization",
+    "issuer": null,
+    "type": "specialization",
+    "date": null,
+    "image": null,
+    "credentialUrl": null,
+    "linkedinUrl": null,
+    "category": "Industrial Safety & HSE",
+    "skills": [
+      "Process Safety",
+      "Risk Assessment",
+      "Hazard Identification",
+      "Industrial Hygiene",
+      "Incident Management"
+    ],
+    "componentCourses": [
+      {
+        "title": "Chemical Process Safety",
+        "sourceRecord": {
+          "fr": "Chemical Process Safety",
+          "en": "Chemical Process Safety"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Industrial Hygiene and Incident Management",
+        "sourceRecord": {
+          "fr": "Industrial Hygiene and Incident Management",
+          "en": "Industrial Hygiene and Incident Management"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Industrial Safety Engineering",
+        "sourceRecord": {
+          "fr": "Industrial Safety Engineering",
+          "en": "Industrial Safety Engineering"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      }
+    ],
+    "featured": true,
+    "completed": true,
+    "priority": 5
+  },
+  {
+    "id": "yellow-belt",
+    "title": "Six Sigma Yellow Belt Specialization",
+    "issuer": null,
+    "type": "specialization",
+    "date": null,
+    "image": null,
+    "credentialUrl": null,
+    "linkedinUrl": null,
+    "category": "Lean Six Sigma & Quality",
+    "skills": [
+      "Six Sigma",
+      "DMAIC",
+      "SIPOC",
+      "Process Mapping",
+      "Root Cause Analysis",
+      "Continuous Improvement"
+    ],
+    "componentCourses": [
+      {
+        "title": "Six Sigma Principles — University at Buffalo",
+        "sourceRecord": {
+          "fr": "Six Sigma Principles — Université de Buffalo",
+          "en": "Six Sigma Principles — University at Buffalo"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Six Sigma Tools — Define & Measure — University at Buffalo",
+        "sourceRecord": {
+          "fr": "Six Sigma Tools — Define & Measure — Université de Buffalo",
+          "en": "Six Sigma Tools — Define & Measure — University at Buffalo"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Six Sigma Tools — Analyze — University at Buffalo",
+        "sourceRecord": {
+          "fr": "Six Sigma Tools — Analyze — Université de Buffalo",
+          "en": "Six Sigma Tools — Analyze — University at Buffalo"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Six Sigma Tools — Improve & Control — University at Buffalo",
+        "sourceRecord": {
+          "fr": "Six Sigma Tools — Improve & Control — Université de Buffalo",
+          "en": "Six Sigma Tools — Improve & Control — University at Buffalo"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      }
+    ],
+    "featured": true,
+    "completed": true,
+    "priority": 6
+  },
+  {
+    "id": "machine-learning",
+    "title": "Machine Learning Specialization",
+    "issuer": "DeepLearning.AI / Stanford Online",
+    "type": "specialization",
+    "date": null,
+    "image": null,
+    "credentialUrl": null,
+    "linkedinUrl": null,
+    "category": "Machine Learning & Industrial Data",
+    "skills": [
+      "Regression",
+      "Classification",
+      "Neural Networks",
+      "Decision Trees",
+      "Clustering",
+      "Recommender Systems"
+    ],
+    "componentCourses": [
+      {
+        "title": "Supervised Machine Learning — Regression & Classification",
+        "sourceRecord": {
+          "fr": "Supervised Machine Learning — Regression & Classification",
+          "en": "Supervised Machine Learning — Regression & Classification"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Advanced Learning Algorithms",
+        "sourceRecord": {
+          "fr": "Advanced Learning Algorithms",
+          "en": "Advanced Learning Algorithms"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      },
+      {
+        "title": "Unsupervised Learning, Recommenders, Reinforcement Learning",
+        "sourceRecord": {
+          "fr": "Unsupervised Learning, Recommenders, Reinforcement Learning",
+          "en": "Unsupervised Learning, Recommenders, Reinforcement Learning"
+        },
+        "date": null,
+        "image": null,
+        "credentialUrl": null
+      }
+    ],
+    "featured": true,
+    "completed": true,
+    "priority": 7
+  },
+  {
+    "id": "machine-learning-in-production",
+    "title": "Machine Learning in Production",
+    "issuer": null,
+    "type": "standalone",
+    "date": null,
+    "image": null,
+    "credentialUrl": null,
+    "linkedinUrl": null,
+    "category": "Machine Learning & Industrial Data",
+    "skills": [],
+    "componentCourses": [],
+    "featured": false,
+    "completed": true,
+    "sourceRecord": {
+      "fr": "Machine Learning in Production",
+      "en": "Machine Learning in Production"
+    }
+  },
+  {
+    "id": "applied-analytics-and-data-for-decision-making",
+    "title": "Applied Analytics and Data for Decision Making",
+    "issuer": null,
+    "type": "standalone",
+    "date": null,
+    "image": null,
+    "credentialUrl": null,
+    "linkedinUrl": null,
+    "category": "Machine Learning & Industrial Data",
+    "skills": [],
+    "componentCourses": [],
+    "featured": false,
+    "completed": true,
+    "sourceRecord": {
+      "fr": "Applied Analytics and Data for Decision Making",
+      "en": "Applied Analytics and Data for Decision Making"
+    }
+  },
+  {
+    "id": "electric-power-systems",
+    "title": "Electric Power Systems",
+    "issuer": null,
+    "type": "standalone",
+    "date": null,
+    "image": null,
+    "credentialUrl": null,
+    "linkedinUrl": null,
+    "category": "Electrical & Industrial Systems",
+    "skills": [],
+    "componentCourses": [],
+    "featured": false,
+    "completed": true,
+    "sourceRecord": {
+      "fr": "Electric Power Systems",
+      "en": "Electric Power Systems"
+    }
+  },
+  {
+    "id": "mv-substation-an-industrial-approach-part-a",
+    "title": "MV Substation — An Industrial Approach (Part A)",
+    "issuer": null,
+    "type": "standalone",
+    "date": null,
+    "image": null,
+    "credentialUrl": null,
+    "linkedinUrl": null,
+    "category": "Electrical & Industrial Systems",
+    "skills": [],
+    "componentCourses": [],
+    "featured": false,
+    "completed": true,
+    "sourceRecord": {
+      "fr": "MV Substation — An Industrial Approach (Part A)",
+      "en": "MV Substation — An Industrial Approach (Part A)"
+    }
+  },
+  {
+    "id": "sensors-and-sensors-circuit-design",
+    "title": "Sensors and Sensors Circuit Design",
+    "issuer": null,
+    "type": "standalone",
+    "date": null,
+    "image": null,
+    "credentialUrl": null,
+    "linkedinUrl": null,
+    "category": "Electrical & Industrial Systems",
+    "skills": [],
+    "componentCourses": [],
+    "featured": false,
+    "completed": true,
+    "sourceRecord": {
+      "fr": "Sensors and Sensors Circuit Design",
+      "en": "Sensors and Sensors Circuit Design"
+    }
+  },
+  {
+    "id": "operations-management-quality-and-supply-chain",
+    "title": "Operations Management — Quality and Supply Chain",
+    "issuer": null,
+    "type": "standalone",
+    "date": null,
+    "image": null,
+    "credentialUrl": null,
+    "linkedinUrl": null,
+    "category": "Supply Chain & Operations",
+    "skills": [],
+    "componentCourses": [],
+    "featured": false,
+    "completed": true,
+    "sourceRecord": {
+      "fr": "Operations Management — Quality and Supply Chain",
+      "en": "Operations Management — Quality and Supply Chain"
+    }
+  },
+  {
+    "id": "data-analytics-for-lean-six-sigma",
+    "title": "Data Analytics for Lean Six Sigma",
+    "issuer": null,
+    "type": "standalone",
+    "date": null,
+    "image": null,
+    "credentialUrl": null,
+    "linkedinUrl": null,
+    "category": "Lean Six Sigma & Quality",
+    "skills": [],
+    "componentCourses": [],
+    "featured": false,
+    "completed": true,
+    "sourceRecord": {
+      "fr": "Data Analytics for Lean Six Sigma",
+      "en": "Data Analytics for Lean Six Sigma"
+    }
+  },
+  {
+    "id": "vsm-value-stream-mapping",
+    "title": "VSM — Value Stream Mapping",
+    "issuer": null,
+    "type": "standalone",
+    "date": null,
+    "image": null,
+    "credentialUrl": null,
+    "linkedinUrl": null,
+    "category": "Lean Six Sigma & Quality",
+    "skills": [],
+    "componentCourses": [],
+    "featured": false,
+    "completed": true,
+    "sourceRecord": {
+      "fr": "VSM — Value Stream Mapping",
+      "en": "VSM — Value Stream Mapping"
+    }
+  }
+]

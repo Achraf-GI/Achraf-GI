@@ -1,0 +1,234 @@
+[
+  {
+    "title": {
+      "fr": "Lean Six Sigma & Qualité",
+      "en": "Lean Six Sigma & Quality"
+    },
+    "items": [
+      {
+        "fr": "Six Sigma Principles — Université de Buffalo",
+        "en": "Six Sigma Principles — University at Buffalo"
+      },
+      {
+        "fr": "Six Sigma Tools — Define & Measure — Université de Buffalo",
+        "en": "Six Sigma Tools — Define & Measure — University at Buffalo"
+      },
+      {
+        "fr": "Six Sigma Tools — Analyze — Université de Buffalo",
+        "en": "Six Sigma Tools — Analyze — University at Buffalo"
+      },
+      {
+        "fr": "Six Sigma Tools — Improve & Control — Université de Buffalo",
+        "en": "Six Sigma Tools — Improve & Control — University at Buffalo"
+      },
+      {
+        "fr": "Six Sigma Yellow Belt (certificat final)",
+        "en": "Six Sigma Yellow Belt (specialization certificate)"
+      },
+      {
+        "fr": "Six Sigma Advanced — Define & Measure — Université de Buffalo",
+        "en": "Six Sigma Advanced — Define & Measure — University at Buffalo"
+      },
+      {
+        "fr": "Six Sigma Advanced — Analyze — Université de Buffalo",
+        "en": "Six Sigma Advanced — Analyze — University at Buffalo"
+      },
+      {
+        "fr": "Six Sigma Advanced — Improve & Control — Université de Buffalo",
+        "en": "Six Sigma Advanced — Improve & Control — University at Buffalo"
+      },
+      {
+        "fr": "Six Sigma and the Organization",
+        "en": "Six Sigma and the Organization"
+      },
+      {
+        "fr": "Six Sigma Green Belt (certificat final)",
+        "en": "Six Sigma Green Belt (specialization certificate)"
+      }
+    ]
+  },
+  {
+    "title": {
+      "fr": "Supply Chain Management",
+      "en": "Supply Chain Management"
+    },
+    "items": [
+      {
+        "fr": "Supply Chain Management Strategy",
+        "en": "Supply Chain Management Strategy"
+      },
+      {
+        "fr": "Supply Chain Sourcing",
+        "en": "Supply Chain Sourcing"
+      },
+      {
+        "fr": "Supply Chain Planning",
+        "en": "Supply Chain Planning"
+      },
+      {
+        "fr": "Supply Chain Operations",
+        "en": "Supply Chain Operations"
+      },
+      {
+        "fr": "Supply Chain Logistics",
+        "en": "Supply Chain Logistics"
+      },
+      {
+        "fr": "Supply Chain Management (certificat final)",
+        "en": "Supply Chain Management (specialization certificate)"
+      }
+    ]
+  },
+  {
+    "title": {
+      "fr": "SAP",
+      "en": "SAP"
+    },
+    "items": [
+      {
+        "fr": "SAP Professional Fundamentals",
+        "en": "SAP Professional Fundamentals"
+      },
+      {
+        "fr": "Understanding the Enterprise Systems Environment",
+        "en": "Understanding the Enterprise Systems Environment"
+      },
+      {
+        "fr": "SAP Customer Engagement and Discovery",
+        "en": "SAP Customer Engagement and Discovery"
+      },
+      {
+        "fr": "Designing an SAP Solution",
+        "en": "Designing an SAP Solution"
+      },
+      {
+        "fr": "Implementing an SAP Solution",
+        "en": "Implementing an SAP Solution"
+      },
+      {
+        "fr": "Becoming an SAP Professional",
+        "en": "Becoming an SAP Professional"
+      },
+      {
+        "fr": "SAP Technology Consultant — Projet pratique (Hands-on Project)",
+        "en": "SAP Technology Consultant — Hands-on Project"
+      },
+      {
+        "fr": "SAP Technology Consultant (spécialisation + badge officiel)",
+        "en": "SAP Technology Consultant (specialization + official badge)"
+      }
+    ]
+  },
+  {
+    "title": {
+      "fr": "Machine Learning & Data",
+      "en": "Machine Learning & Data"
+    },
+    "items": [
+      {
+        "fr": "Machine Learning — Stanford / DeepLearning.AI",
+        "en": "Machine Learning — Stanford / DeepLearning.AI"
+      },
+      {
+        "fr": "Supervised Machine Learning — Regression & Classification",
+        "en": "Supervised Machine Learning — Regression & Classification"
+      },
+      {
+        "fr": "Advanced Learning Algorithms",
+        "en": "Advanced Learning Algorithms"
+      },
+      {
+        "fr": "Unsupervised Learning, Recommenders, Reinforcement Learning",
+        "en": "Unsupervised Learning, Recommenders, Reinforcement Learning"
+      },
+      {
+        "fr": "Machine Learning in Production",
+        "en": "Machine Learning in Production"
+      },
+      {
+        "fr": "Applied Analytics and Data for Decision Making",
+        "en": "Applied Analytics and Data for Decision Making"
+      }
+    ]
+  },
+  {
+    "title": {
+      "fr": "Industrie 4.0",
+      "en": "Industry 4.0"
+    },
+    "items": [
+      {
+        "fr": "Digital Manufacturing — Introduction and Smart Design",
+        "en": "Digital Manufacturing — Introduction and Smart Design"
+      },
+      {
+        "fr": "Industry 4.0 — PLM, Value Chain and Smart Factory",
+        "en": "Industry 4.0 — PLM, Value Chain and Smart Factory"
+      }
+    ]
+  },
+  {
+    "title": {
+      "fr": "Sécurité industrielle / HSE",
+      "en": "Industrial Safety / HSE"
+    },
+    "items": [
+      {
+        "fr": "Chemical Process Safety",
+        "en": "Chemical Process Safety"
+      },
+      {
+        "fr": "Industrial and Process Safety Engineering",
+        "en": "Industrial and Process Safety Engineering"
+      },
+      {
+        "fr": "Industrial Hygiene and Incident Management",
+        "en": "Industrial Hygiene and Incident Management"
+      },
+      {
+        "fr": "Industrial Safety Engineering",
+        "en": "Industrial Safety Engineering"
+      }
+    ]
+  },
+  {
+    "title": {
+      "fr": "Électrotechnique & instrumentation",
+      "en": "Electrical / Instrumentation"
+    },
+    "items": [
+      {
+        "fr": "Electric Power Systems",
+        "en": "Electric Power Systems"
+      },
+      {
+        "fr": "MV Substation — An Industrial Approach (Part A)",
+        "en": "MV Substation — An Industrial Approach (Part A)"
+      },
+      {
+        "fr": "Sensors and Sensors Circuit Design",
+        "en": "Sensors and Sensors Circuit Design"
+      }
+    ]
+  },
+  {
+    "title": {
+      "fr": "Analytique & opérations",
+      "en": "Analytics & Operations"
+    },
+    "items": [
+      {
+        "fr": "Operations Management — Quality and Supply Chain",
+        "en": "Operations Management — Quality and Supply Chain"
+      },
+      {
+        "fr": "Data Analytics for Lean Six Sigma",
+        "en": "Data Analytics for Lean Six Sigma"
+      },
+      {
+        "fr": "VSM — Value Stream Mapping",
+        "en": "VSM — Value Stream Mapping"
+      }
+    ]
+  }
+]
