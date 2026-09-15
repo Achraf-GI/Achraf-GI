@@ -22,7 +22,7 @@ My experience combines Lean Six Sigma with Power BI, SQL Server, SSIS/ETL and da
 | **Operational Excellence** | Lean Manufacturing · DMAIC · PDCA · 5S · VSM · Root Cause Analysis |
 | **Quality & Six Sigma** | Six Sigma · FMEA/AMDEC · Ishikawa · 5 Why · KPI · Process Analysis |
 | **Industrial Data** | Power BI · SQL Server · SSIS · ETL · Data Warehouse · KPI Dashboards |
-| Automation & Supervision | PLC · SCADA · TIA Portal · HMI · Industrial Monitoring |
+| Automation & Supervision | PLC · SCADA · HMI · Industrial Monitoring |
 | Simulation & Operations | Arena · FlexSim · Queueing Systems · Process Simulation · Capacity Analysis |
 | Supply Chain | Planning · Logistics · Sourcing · Operations · Inventory |
 | Enterprise Systems | SAP MM · SAP PP · Industry 4.0 · Smart Factory |
