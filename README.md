@@ -1,5 +1,3 @@
-<img src="assets/profile-achraf-gaga.png" alt="Professional portrait of Achraf Gaga" width="240" align="left" />
-
 # ACHRAF GAGA
 ### INDUSTRIAL ENGINEERING
 
@@ -11,8 +9,6 @@ Operational Excellence · Lean Six Sigma · Industrial Data · Automation
 Tangier, Morocco
 
 [Portfolio](https://portfolio-ach-bcbc.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/achraf-gaga-3a50b6359) · [Email](mailto:achraf.gaga01@gmail.com) · [GitHub](https://github.com/Achraf-GI)
-
-<br clear="left" />
 
 ## Professional Summary
 
@@ -52,14 +48,6 @@ My experience combines Lean Six Sigma with Power BI, SQL Server, SSIS/ETL and da
 - **AMENDIS · Final-Year Internship · 2026** — Industrial decision support: SCADA, ETL, SQL Server, data warehouse and KPI analytics.
 - **AMENDIS · Industrial Performance Internship · 2025** — Pumping performance and energy efficiency: DMAIC, KPI, automation and Power BI.
 - **AMENDIS · Automation & Remote Monitoring Internship · 2024** — Existing-system analysis, operating procedures and process improvement.
-
-## Certifications
-
-**Industrial engineering priorities:** Six Sigma Green Belt · Supply Chain Management · SAP Technology Consultant · Digital Technology in Manufacturing · Industrial and Process Safety Engineering · Six Sigma Yellow Belt.
-
-**Complementary:** Machine Learning — DeepLearning.AI / Stanford Online.
-
-[View certifications by domain](CERTIFICATIONS.md) — parent credentials appear once; component courses are retained in the data.
 
 ## Education
 
