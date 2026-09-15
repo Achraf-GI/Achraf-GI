@@ -57,7 +57,7 @@ My experience combines Lean Six Sigma with Power BI, SQL Server, SSIS/ETL and da
 
 ## Tools & Technologies
 
-**Industrial Engineering:** Lean Six Sigma, DMAIC, PDCA, 5S, FMEA, VSM. **BI:** Power BI, SQL Server, SSIS, ETL. **Automation:** PLC, SCADA, TIA Portal, HMI. **Simulation:** Arena, FlexSim. **Enterprise Systems:** SAP MM, SAP PP. **Programming support:** Python, SQL, VBA, Django, Git.
+**Industrial Engineering:** Lean Six Sigma, DMAIC, PDCA, 5S, FMEA, VSM. **BI:** Power BI, SQL Server, SSIS, ETL. **Automation:** PLC, SCADA,HMI. **Simulation:** Arena, FlexSim. **Enterprise Systems:** SAP MM, SAP PP. **Programming support:** Python, SQL, VBA, Django, Git.
 
 ## Contact
 
